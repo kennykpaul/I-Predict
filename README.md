@@ -2,7 +2,7 @@
 This is a simple android apk which I created to manage a prediction game played at my office.
 
 Apart from the android apk there are scripts which needs to be run in Google app scripts environment. I have not included these google scripts,
-if you want to view those you can ask and I will share those.
+if you want to view those you can ask and I will share.
 
 Game details
 ============
